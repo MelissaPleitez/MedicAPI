@@ -1,5 +1,5 @@
-import { ReservationDto, ReservationsResponseDto } from "../dtos/admin.timeBlock.dto.js";
-import { CreateReservationData, UpdateReservationDto } from "../dtos/reservation.dto.js";
+import { ReservationsResponseDto } from "../dtos/admin.timeBlock.dto.js";
+import { CreateReservationData} from "../dtos/reservation.dto.js";
 
 
 export interface IReservationService {
